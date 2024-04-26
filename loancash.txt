@@ -1,6 +1,8 @@
 {
  "appOpenVisible": false,
   "backPriority": "facebook",
+  "clientTokenFacebook":"sffsfds",
+  "appIdFacebook":"444554",
   "bannerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH__kzhn1GYGq4sNpqSLt2fGKW1XkMWFw5iUgogqEI7G-tPfNFwMUWs2pv7zN0kDbIhck&usqp=CAU",
   "bannerUrl": "https://play2299.atmequiz.com/start",
   "facebookBannerId1": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
